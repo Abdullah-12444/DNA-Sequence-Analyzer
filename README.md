@@ -1,9 +1,5 @@
 # DNA-Sequence-Analyzer
-Machine Learning based DNA Sequence Analyzer using Flask
-
-# DNA Sequence Analyzer
-
-A Machine Learning based DNA Sequence Analyzer developed using Python and Flask.
+Machine Learning based DNA Sequence Analyzer using Flask and python
 
 ## Features
 
